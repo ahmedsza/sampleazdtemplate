@@ -1,0 +1,7 @@
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\AzMonSampleApp.exe
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\appsettings.Development.json
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\appsettings.json
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\AzMonSampleApp.dll
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\AzMonSampleApp.deps.json
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\AzMonSampleApp.runtimeconfig.json
+C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd2293669960\AzMonSampleApp.pdb
