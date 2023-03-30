@@ -1,7 +1,0 @@
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\AzMonSampleApp.exe
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\appsettings.Development.json
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\appsettings.json
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\AzMonSampleApp.dll
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\AzMonSampleApp.deps.json
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\AzMonSampleApp.runtimeconfig.json
-C:\Users\ahmeds.AFRICA\AppData\Local\Temp\azd3994934403\AzMonSampleApp.pdb
