@@ -37,7 +37,7 @@ resource appService 'Microsoft.Web/sites@2022-03-01' = {
     parent: appService
     name: 'appsettings'
     properties: {
-      APPLICATIONINSIGHTS_CONNECTION_STRIN: applicationInsights.properties.ConnectionString
+      APPLICATIONINSIGHTS_CONNECTION_STRING: applicationInsights.properties.ConnectionString
     }
     dependsOn: [
       appServiceSiteExtension
